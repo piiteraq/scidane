@@ -1,2 +1,2 @@
 # scidane
-This repo has no other purpose but to get started on GitHub ..
+This repo's only purpose is to get started on GitHub ..
